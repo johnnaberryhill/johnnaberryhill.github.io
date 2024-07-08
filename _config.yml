@@ -34,8 +34,8 @@ menu:
       url: "#miscellaneous"
  - page: Education
    url: /education
- - page: Accolades
-   url: /accolades
+ - page: Presentations
+   url: /Presentations
 menu_external:
  - title: OleVik.me
    url: "http://olevik.me/"
