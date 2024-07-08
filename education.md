@@ -16,7 +16,8 @@ Besides theory, my education has trained me in the basics of programming in R, P
 #### M.S. in Statistics *2023-current*
 Arkansas State University  
 Expected graduation: May 2025  
-Thesis in progress (see projects tab)  
+Thesis in progress (see projects tab)   
+Primary advisor: Dr. Sudeepa Bhattacharyya  
 Relevant coursework:
   - Advanced biostatistics
   - Advanced probability theory
@@ -30,7 +31,8 @@ Relevant coursework:
 Arkansas State University  
 Minor in Statistics  
 Honors graduate  
-Honors thesis defended (see projects tab)  
+Honors thesis defended (see projects tab)   
+Primary advisor: Dr. Sudeepa Bhattacharyya  
 Relevant coursework:
 - Statistical analysis
 - Probability theory
