@@ -8,7 +8,7 @@ layout: default
 
 #### Welcome!
 
-Please navigate this site to learn more about me, my education, and my projects! 
+Please navigate this site to learn more about me, my education, and my research! 
 
 #### Contact
 - email: johnna.berryhill@smail.astate.edu
