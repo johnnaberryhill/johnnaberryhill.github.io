@@ -1,5 +1,5 @@
-name: Researcher
-description: Personal website
+name: Johnna Berryhill
+description: Graduate Student
 menu:
  - page: About
    url: /about
@@ -50,5 +50,5 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: 
+baseurl: johnnaberryhill.github.io
 locale: en_GB
