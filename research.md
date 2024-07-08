@@ -52,6 +52,17 @@ Throughout my time as a research assistant at Arkansas State University under Dr
 My projects have varied in aims and methods, but they all share a common goal: utilizing human health records to uncover patterns in predictors and outcomes.
 <br>
 
+### Collaborators
+- Sudeepa Bhattacharyya, Arkansas State University
+- Wen Zou, FDA NCTR
+- Xiao Huang, Emory University
+- Melody Greer, University of Arkansas for Medical Sciences
+- Enrique Gomez, St. Bernards Medical Center
+- Jonathan Laryea, University of Arkansas for Medical Sciences
+- Li Ma, University of Arkansas at Little Rock
+- Daniela Ramirez-Aguilar, Arkansas Department of health
+<br>
+
 ## Masters Thesis
 Description...
 
