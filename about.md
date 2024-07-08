@@ -8,4 +8,4 @@ layout: default
 Johnna Berryhill is currently earning a masters in statistics at Arkansas State University.
 
 
-![Researcher Portrait](assets/images/Johnna_headshot.jpg "Johnna Berryhill")
+![Researcher Portrait](assets/images/Johnna_headshot.JPG "Johnna Berryhill")
