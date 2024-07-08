@@ -13,6 +13,10 @@ menu:
  - page: Research Projects
    url: /research
    links:
+   - title: "Research experience"
+      url: "#Research experience"
+      - title: "Collaborators"
+      url: "#Collaborators"
     - title: "Masters Thesis"
       url: "#Masters Thesis"
     - title: "Undergraduate Thesis"
