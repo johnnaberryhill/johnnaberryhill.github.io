@@ -39,3 +39,7 @@ Relevant coursework:
 - Linear regression and ANOVA
 - R programming
 - Python programming
+
+
+
+<img src="assets/images/IMG_4746.jpeg" alt="Johnna Berryhill Graduation" title="Johnna Berryhill Graduation" style="width:300px;">
