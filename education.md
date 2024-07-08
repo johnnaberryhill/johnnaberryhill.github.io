@@ -5,16 +5,13 @@ date: 08-07-2024
 layout: default
 ---
 
-#### B.S. in Mathematics *2019-2023*
-Arkansas State University  
-Minor in Statistics  
-Honors graduate  
-Relevant coursework:
-- Statistical analysis
-- Probability theory
-- Linear regression and ANOVA
-- R programming
-- Python programming
+
+My educational background in mathematics and statistics has given me the skills to understand what is truly happening behind the scenes of popular statistical and machine learning techniques. Complex formulas, loss functions, and distributions don't scare me.  
+
+   
+Besides theory, my education has trained me in the basics of programming in R, Python, and SAS, and my projects as a research assistant have pushed me beyond the beginner status. 
+
+
 
 #### M.S. in Statistics *2023-current*
 Arkansas State University  
@@ -27,3 +24,16 @@ Relevant coursework:
   - Machine learning
   - Multivariate statistics
   - Survival analysis
+
+
+#### B.S. in Mathematics *2019-2023*
+Arkansas State University  
+Minor in Statistics  
+Honors graduate  
+Honors thesis defended (see projects tab)  
+Relevant coursework:
+- Statistical analysis
+- Probability theory
+- Linear regression and ANOVA
+- R programming
+- Python programming
