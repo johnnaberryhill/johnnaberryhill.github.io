@@ -1,18 +1,18 @@
 ---
 title: "Papers"
 summary: "About this page."
-date: 2016-04-13
+date: 07-08-2024
 layout: default
 ---
 
-"Papers" introductory paragraph.
+Currently, all of my manuscripts are in preparation.
 
 ## Working papers
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+- Gomez, E., Berryhill, J., & Bhattacharyya, S. Prevalence of Perinatal Substance Use in Northeast Arkansas. Manuscript in preparation.
+- Berryhill, J., Greer, M., & Bhattacharyya, S. Comparative Analysis of Individual and Aggregated-Level Social Determinants of Health in Predictive Models for Multimorbidity Outcomes. Manuscript in preparation.
+- Ramirez-Aguilar, D., Berryhill, J., Laryea, J., Gan, J., & Bhattacharyya, S.  Colorectal Cancer in Arkansas, 2013-2020: An Epidemiological Review of Associated Health Disparities. Manuscript in preparation. 
+- Berryhill, J., Huang, X., & Bhattacharyya, S. A Geospatial Insight: Understanding the Socio-Behavioral and Environmental Drivers of CRC Screening in Arkansas. Manuscript in preparation.
+
 
 ## Published papers
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
-
-Here is a paper, which you can find at [ResearchGate](http://dx.doi.org/10.13140/RG.2.1.1137.2247).
-
-<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://drive.google.com/file/d/0B-xXQEsWEjrUUmpBdkhIVS10YjA/preview" width="100%" height="768"></iframe>
+In progress.
