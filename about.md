@@ -20,6 +20,4 @@ I am currently seeking PhD positions in the areas mentioned above. I aspire to j
 
 Although I have no formal biology background, I am eager to learn how to incorporate genomic, biomarker, and other biological data into my analyses.
 
-In my free time, I enjoy watching movies and TV shows, exercising, and being a homebody with my two cats, Tiger and Phoebe.
-
 <img src="assets/images/Johnna_headshot.JPG" alt="Johnna Berryhill" title="Johnna Berryhill" style="width:300px;">
