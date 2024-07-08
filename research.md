@@ -5,16 +5,18 @@ date: 2016-04-13
 layout: default
 ---
 
-"Research" introductory paragraph.
+Throughout my time as a research assistant at Arkansas State University under Dr. Sudeepa Bhattacharyya and at the FDA's National Center for Toxicological Research (NCTR) under Dr. Wen Zou, I have actively participated in several research projects. Below I will give an overview of a few select studies and my role in them.  
 
-## Project One
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+My projects have varied in aims and methods, but they all share a common goal: utilizing human health records to uncover patterns in predictors and outcomes.
 
-## Project Two
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+## Masters Thesis
+Description...
 
-## Project Three
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+## Undergraduate Thesis
+Description...
 
-## Project Four
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+## NCTR Internship Project
+Description...
+
+## Consulting Project
+Description...
