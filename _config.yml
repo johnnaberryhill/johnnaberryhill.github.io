@@ -13,14 +13,14 @@ menu:
  - page: Research Projects
    url: /research
    links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
-      url: "#project-two"
-    - title: "Project Three"
-      url: "#project-three"
-    - title: "Project Four"
-      url: "#project-four"
+    - title: "Masters Thesis"
+      url: "#Masters Thesis"
+    - title: "Undergraduate Thesis"
+      url: "#Undergraduate Thesis"
+    - title: "NCTR Internship Project"
+      url: "#NCTR Internship Project"
+    - title: "Consulting Project"
+      url: "#Consulting Project"
  - page: Curriculum Vitae
    url: assets/images/jb_CV_May2024.pdf  # Change this to point directly to the PDF
  - page: Education
