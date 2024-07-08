@@ -47,7 +47,7 @@ Relevant coursework:
     <p>Wolves Up!🐺⬆️</p>
   </div>
   <div style="text-align: center; margin-left: 10px;">
-    <img src="assets/images/IMG_4746.jpeg" alt="Johnna Berryhill Graduation2" title="Johnna Berryhill Graduation2" style="width:300px;">
+    <img src="assets/images/IMG_4746.jpeg" alt="Johnna Berryhill Graduation2" title="Johnna Berryhill Graduation2" style="width:600px;">
     <p>Graduation picture 2023</p>
   </div>
 </div>
