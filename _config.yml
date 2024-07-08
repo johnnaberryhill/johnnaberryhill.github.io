@@ -22,16 +22,7 @@ menu:
     - title: "Project Four"
       url: "#project-four"
  - page: Curriculum Vitae
-   url: /cv
-   links:
-    - title: Experience
-      url: "#experience"
-    - title: Education
-      url: "#education"
-    - title: Positions
-      url: "#positions"
-    - title: Miscellaneous
-      url: "#miscellaneous"
+   url: assets/images/jb_CV_May2024.pdf  # Change this to point directly to the PDF
  - page: Education
    url: /education
  - page: Presentations
