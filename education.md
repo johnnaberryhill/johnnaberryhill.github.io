@@ -41,5 +41,14 @@ Relevant coursework:
 - Python programming
 
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center; margin-right: 10px;">
+    <img src="assets/images/IMG_4766.jpeg" alt="Johnna Berryhill Graduation" title="Johnna Berryhill Graduation" style="width:300px;">
+    <p>Wolves Up!🐺⬆️</p>
+  </div>
+  <div style="text-align: center; margin-left: 10px;">
+    <img src="assets/images/IMG_4746.jpeg" alt="Johnna Berryhill Graduation2" title="Johnna Berryhill Graduation2" style="width:300px;">
+    <p>Graduation picture 2023</p>
+  </div>
+</div>
 
-<img src="assets/images/IMG_4746.jpeg" alt="Johnna Berryhill Graduation" title="Johnna Berryhill Graduation" style="width:300px;">
