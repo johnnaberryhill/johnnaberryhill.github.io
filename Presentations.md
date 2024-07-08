@@ -54,10 +54,6 @@ Although I used to be very nervous giving presentations, my mentor (Dr. Sudeepa 
     <p>Undergrad Thesis Defense 10</p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="assets/images/IMG_5360.jpg" alt="conference4" title="Johnna Berryhill" style="width:300px;">
-    <p>Conference ??</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
     <img src="assets/images/IMG_5361.jpg" alt="conference5" title="Johnna Berryhill" style="width:300px;">
     <p>Conference 15</p>
   </div>
