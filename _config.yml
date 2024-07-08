@@ -13,9 +13,9 @@ menu:
  - page: Research Projects
    url: /research
    links:
-   - title: "Research experience"
+    - title: "Research experience"
       url: "#Research experience"
-      - title: "Collaborators"
+    - title: "Collaborators"
       url: "#Collaborators"
     - title: "Masters Thesis"
       url: "#Masters Thesis"
